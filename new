@@ -1,3 +1,8 @@
 def home()
   vbs=3
     bbs="fdesk"
+
+
+if g==f:
+    f++
+    d--
